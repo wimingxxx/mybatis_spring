@@ -5,7 +5,7 @@
 <configuration>
 
     <typeAliases>
-        <package name="com.qwm.mybatis.pojo"/>
+        <package name="com.qwm.mybatisspring.po"/>
     </typeAliases>
 
     <!--加载映射文件-->

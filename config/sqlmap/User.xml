@@ -4,9 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <!-- namespace：命名空间，用于隔离sql-->
 <mapper namespace="wiming">
-
-
-    <select id="findUserById" parameterType="int" resultType="com.qwm.mybatis.pojo.User">
+    <select id="findUserById" parameterType="int" resultType="com.qwm.mybatisspring.po.User">
         SELECT * FROM `user` WHERE id  = #{id}
     </select>
 </mapper>
