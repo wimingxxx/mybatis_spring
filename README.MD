@@ -62,9 +62,11 @@
 
 [SSH与SSM学习之MyBatis25——mybatis和spring整合之基本项目创建](blog/25.md)
 
-[](blog/26.md)
+[SSH与SSM学习之MyBatis26——mybatis和spring整合之原始dao开发](blog/26.md)
 
-[](blog/27.md)
+[SSH与SSM学习之MyBatis27——mybatis和spring整合之mapper代理方法](blog/27.md)
+
+[SSH与SSM学习之MyBatis28——mybatis逆向过程](blog/28.md)
 
 
 -----
