@@ -66,7 +66,7 @@
 
 [SSH与SSM学习之MyBatis27——mybatis和spring整合之mapper代理方法](blog/27.md)
 
-[SSH与SSM学习之MyBatis28——mybatis逆向过程](blog/28.md)
+[SSH与SSM学习之MyBatis28——mybatis逆向工程](blog/28.md)
 
 
 -----
